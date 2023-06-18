@@ -20,4 +20,6 @@
 
 
 -----------------
-Hướng dẫn 
+Hướng dẫn triển khai VPN server để bảo vệ kết nối và truy cập an toàn từ xa vào mạng nội bộ của tổ chức
+
+1. Đặt vấn đề
